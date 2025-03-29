@@ -1,0 +1,33 @@
+{
+  "name": "react-custom-hooks",
+  "version": "1.0.0",
+  "description": "A collection of reusable custom React hooks for managing state and side effects",
+  "author": "Akash Kumawat",
+  "type": "module",
+  "keywords": [
+    "react",
+    "hooks",
+    "custom-hooks",
+    "typescript",
+    "state-management",
+    "react-hooks"
+  ],
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.8",
+    "@rollup/plugin-node-resolve": "^15.3.1",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.3.20",
+    "rollup": "^4.37.0",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.2"
+  }
+}
