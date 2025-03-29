@@ -1,18 +1,18 @@
-# react-custom-hooks
+# snappy-react-hooks
 
 A collection of reusable React hooks to simplify state management and enhance functionality.
 
 ## Installation
 
-`npm install react-custom-hooks`
+`npm install snappy-react-hooks`
 
 Or
 
-`pnpm install react-custom-hooks`
+`pnpm install snappy-react-hooks`
 
 Or
 
-`yarn install react-custom-hooks`
+`yarn install snappy-react-hooks`
 
 # Hooks
 

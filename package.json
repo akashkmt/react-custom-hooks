@@ -1,5 +1,5 @@
 {
-  "name": "react-custom-hooks",
+  "name": "snappy-react-hooks",
   "version": "1.0.0",
   "description": "A collection of reusable custom React hooks for managing state and side effects",
   "author": "Akash Kumawat",
@@ -31,7 +31,7 @@
     "typescript": "^5.8.2"
   },
   "bugs": {
-    "url": "https://github.com/akashkmt/react-custom-hooks/issues"
+    "url": "https://github.com/akashkmt/snappy-react-hooks/issues"
   },
-  "homepage": "https://github.com/akashkmt/react-custom-hooks#readme"
+  "homepage": "https://github.com/akashkmt/snappy-react-hooks#readme"
 }
